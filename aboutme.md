@@ -1,3 +1,3 @@
-Hola, soy Mario Cerdá alumno de DAW. 
-Me gusta la informática, los videojuegos, salir con mis amigos y pasar tiempo con mi familia. 
-En mi tiempo libre suelo ver series o trastear con el ordenador.
+Hola, soy Mario Cerdá, alumno de DAW. 
+Me apasiona el mundo de la informática, que es lo que me llevó a estudiar este ciclo de desarrollo de aplicaciones web.
+En mi tiempo libre, además de trastear con el ordenador y ver algunas series, me gusta mucho salir con mis amigos y pasar tiempo con mi familia.
